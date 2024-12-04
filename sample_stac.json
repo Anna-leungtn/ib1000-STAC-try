@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "stac_version": "1.0.0",
+    "stac_extensions": [],
+    "id": "local-image",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    819499.9788314988,
+                    813199.8306519898
+                ],
+                [
+                    819499.9788314988,
+                    813800.0
+                ],
+                [
+                    820250.1058425064,
+                    813800.0
+                ],
+                [
+                    820250.1058425064,
+                    813199.8306519898
+                ],
+                [
+                    819499.9788314988,
+                    813199.8306519898
+                ]
+            ]
+        ]
+    },
+    "bbox": [
+        819499.9788314988,
+        813199.8306519898,
+        820250.1058425064,
+        813800.0
+    ],
+    "properties": {
+        "datetime": "2024-12-04T09:26:16.876774Z"
+    },
+    "links": [],
+    "assets": {
+        "image": {
+            "href": "https://github.com/Anna-leungtn/ib1000-STAC-try/raw/refs/heads/main/10-SW-19C_cog.tif",
+            "type": "image/tiff; application=geotiff"
+        }
+    }
+}

@@ -2,40 +2,58 @@
     "type": "Feature",
     "stac_version": "1.0.0",
     "stac_extensions": [],
-    "id": "local-image",
+    "id": "10-NE-10A_cog_wgs84",
     "geometry": {
         "type": "Polygon",
         "coordinates": [
             [
                 [
-                   113.952983919,22.314332767
+                    114.10146484440907,
+                    22.33885088215452
                 ],
                 [
-                    113.958808896,22.314340703
+                    114.10146484440907,
+                    22.344274070742813
                 ],
                 [
-                   113.958798375, 22.321114747
+                    114.10874910361647,
+                    22.344274070742813
                 ],
                 [
-                  113.952973116, 22.321106808
+                    114.10874910361647,
+                    22.33885088215452
                 ],
                 [
-                    113.952983919,22.314332767
+                    114.10146484440907,
+                    22.33885088215452
                 ]
             ]
         ]
     },
     "bbox": [
-        113.952983919,22.314332767,
-        113.958798375,22.321114747
+        114.10146484440907,
+        22.33885088215452,
+        114.10874910361647,
+        22.344274070742813
     ],
     "properties": {
-        "datetime": "2024-12-04T09:26:16.876774Z"
+        "datetime": "2024-12-04T13:35:25.980496Z"
     },
-    "links": [],
+    "links": [
+        {
+            "rel": "root",
+            "href": null,
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "href": null,
+            "type": "application/json"
+        }
+    ],
     "assets": {
         "image": {
-            "href": "https://github.com/Anna-leungtn/ib1000-STAC-try/raw/refs/heads/main/10-SW-19C_cog.tif",
+            "href": "https://github.com/Anna-leungtn/ib1000-STAC-try/raw/refs/heads/main/10-NE-10A_cog_wgs84.tif",
             "type": "image/tiff; application=geotiff"
         }
     }

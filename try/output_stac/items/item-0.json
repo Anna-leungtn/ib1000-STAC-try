@@ -42,24 +42,24 @@
   "links": [
     {
       "rel": "root",
-      "href": "/content/output_stac/catalog.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "/content/output_stac/sample-collection/collection.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/sample-collection/collection.json",
       "type": "application/json",
       "title": "Sample COG Collection"
     },
     {
       "rel": "collection",
-      "href": "/content/output_stac/sample-collection/collection.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/sample-collection/collection.json",
       "type": "application/json",
       "title": "Sample COG Collection"
     },
     {
       "rel": "self",
-      "href": "/content/output_stac/items/item-0.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-0.json",
       "type": "application/json"
     }
   ],

@@ -6,72 +6,72 @@
   "links": [
     {
       "rel": "root",
-      "href": "/content/output_stac/catalog.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/catalog.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-0.json",
+      "rel": "item0",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-0.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-1.json",
+      "rel": "item1",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-1.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-2.json",
+      "rel": "item2",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-2.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-3.json",
+      "rel": "item3",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-3.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-4.json",
+      "rel": "item4",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-4.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-5.json",
+      "rel": "item5",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/item-5.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-6.json",
+      "rel": "item6",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-6.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-7.json",
+      "rel": "item7",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/item-7.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-8.json",
+      "rel": "item8",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-8.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-9.json",
+      "rel": "item9",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-9.json",
       "type": "application/json"
     },
     {
-      "rel": "item",
-      "href": "/content/output_stac/items/item-10.json",
+      "rel": "item10",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-10.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "/content/output_stac/catalog.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "self",
-      "href": "/content/output_stac/sample-collection/collection.json",
+      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/sample-collection/collection.json",
       "type": "application/json"
     }
   ],

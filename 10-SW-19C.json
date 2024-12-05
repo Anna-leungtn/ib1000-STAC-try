@@ -43,7 +43,7 @@
     "assets": {
         "image": {
             "href": "https://github.com/Anna-leungtn/ib1000-STAC-try/raw/refs/heads/main/10-SW-19C_cog_wgs84.tif",
-            "type": "image/tiff; application=geotiff"
+            "type": "image/tiff; application=geotiff; profile=cloud-optimized"
         }
     }
 }

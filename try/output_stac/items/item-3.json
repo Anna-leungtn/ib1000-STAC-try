@@ -1,0 +1,76 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "id": "item-3",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          114.20342547439832,
+          22.501413401529984
+        ],
+        [
+          114.21071720499403,
+          22.501413401529984
+        ],
+        [
+          114.21071720499403,
+          22.50683475959121
+        ],
+        [
+          114.20342547439832,
+          22.50683475959121
+        ],
+        [
+          114.20342547439832,
+          22.501413401529984
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    114.20342547439832,
+    22.501413401529984,
+    114.21071720499403,
+    22.50683475959121
+  ],
+  "properties": {
+    "datetime": "2024-12-05T07:57:24.896742Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "/content/output_stac/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "/content/output_stac/sample-collection/collection.json",
+      "type": "application/json",
+      "title": "Sample COG Collection"
+    },
+    {
+      "rel": "collection",
+      "href": "/content/output_stac/sample-collection/collection.json",
+      "type": "application/json",
+      "title": "Sample COG Collection"
+    },
+    {
+      "rel": "self",
+      "href": "/content/output_stac/items/item-3.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "cog": {
+      "href": "https://github.com/Anna-leungtn/ib1000-STAC-try/raw/refs/heads/main/try/3-SE-7A_cog_wgs84.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "roles": [
+        "data"
+      ]
+    }
+  },
+  "collection": "sample-collection"
+}

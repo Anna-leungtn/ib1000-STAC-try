@@ -1,0 +1,24 @@
+{
+  "type": "Catalog",
+  "id": "sample-catalog",
+  "stac_version": "1.0.0",
+  "description": "Sample catalog containing COG collection",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/content/output_stac/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "/content/output_stac/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "child",
+      "href": "/content/output_stac/sample-collection/collection.json",
+      "type": "application/json",
+      "title": "Sample COG Collection"
+    }
+  ]
+}

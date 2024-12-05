@@ -1,0 +1,100 @@
+{
+  "type": "Collection",
+  "id": "sample-collection",
+  "stac_version": "1.0.0",
+  "description": "Sample COG collection",
+  "links": [
+    {
+      "rel": "root",
+      "href": "/content/output_stac/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-0.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-1.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-2.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-3.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-4.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-5.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-6.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-7.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-8.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-9.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "/content/output_stac/items/item-10.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "/content/output_stac/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "self",
+      "href": "/content/output_stac/sample-collection/collection.json",
+      "type": "application/json"
+    }
+  ],
+  "title": "Sample COG Collection",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          114.13053221953572,
+          22.474325752016505,
+          114.2617381540383,
+          22.512254880801216
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2024-12-05T07:57:24.890076Z",
+          null
+        ]
+      ]
+    }
+  },
+  "license": "proprietary"
+}

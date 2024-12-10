@@ -37,29 +37,29 @@
     22.501400029220886
   ],
   "properties": {
-    "datetime": "2024-12-05T07:57:24.891443Z"
+    "datetime": "2024-12-10T07:55:23.926946Z"
   },
   "links": [
     {
       "rel": "root",
-      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/catalog.json",
+      "href": "./output_stac/catalog.json",
       "type": "application/json"
     },
     {
       "rel": "parent",
-      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/sample-collection/collection.json",
+      "href": "./output_stac/sample-collection/collection.json",
       "type": "application/json",
       "title": "Sample COG Collection"
     },
     {
       "rel": "collection",
-      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/sample-collection/collection.json",
+      "href": "./output_stac/sample-collection/collection.json",
       "type": "application/json",
       "title": "Sample COG Collection"
     },
     {
       "rel": "self",
-      "href": "https://raw.githubusercontent.com/Anna-leungtn/ib1000-STAC-try/refs/heads/main/try/output_stac/items/item-0.json",
+      "href": "./output_stac/items/item-0.json",
       "type": "application/json"
     }
   ],
